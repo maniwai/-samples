@@ -1,0 +1,1 @@
+git@github.com:maniwai/_starter-react.git
