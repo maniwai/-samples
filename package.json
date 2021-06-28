@@ -16,12 +16,19 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "formik": "latest",
+    "knex": "^0.95.6",
     "loadash": "latest",
+    "pg": "^8.6.0",
     "prop-types": "latest",
     "react": "latest",
     "react-dom": "latest",
     "react-transition-group": "latest",
-    "redux": "latest"
+    "redux": "latest",
+    "uikit": "^3",
+    "yup": "^0.32.9"
   },
   "devDependencies": {
     "@babel/cli": "latest",

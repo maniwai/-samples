@@ -1,8 +1,12 @@
 #### NEXT
-
-1. next.js (2h) _codedam_ [codedam.com](https://codedamn.com/learn/nextjs-fundamentals)
-1. nextjs-login-system (6h) _Dhungel_ [udemy](https://www.udemy.com/course/react-nextjs-firebase-nodejs-mongodb-authentication)
+1. CRUD Tutorial - React, GraphQL, NodeJS, MySQL _PedroTech_ (2.5h) [youtube](https://www.youtube.com/playlist?list=PLpPqplz6dKxXRJLbOLozaQCB5Py4CEpzS)
 1. GraphQL from Scratch (19h) _Dhungel_ [udemy](https://www.udemy.com/course/graphql-react-node/)
+
+1. nextjs-login-system (6h) _Dhungel_ [udemy](https://www.udemy.com/course/react-nextjs-firebase-nodejs-mongodb-authentication)
+1. PostgreSQL Bootcamp (67h) _Adnan Waheed_ [udemy](https://www.udemy.com/course/postgresqlmasterclass/)
+1. Design Patterns with JavaScript ES56 and Node js from Zero _Advenced C_ [youtube](https://www.youtube.com/playlist?list=PL6tEaVUU83w1hmBzhBj0k4Byj0a1m8eOb)
+1. GraphQL Typescript Server Boilerplate _Ben Awad_ (2.5h) [youtube](https://www.youtube.com/playlist?list=PLN3n1USn4xlky9uj6wOhfsPez7KZOqm2V)
+1. next.js (2h) _codedam_ [codedam.com](https://codedamn.com/learn/nextjs-fundamentals)
 1. marketplace-booking-app (16h) _dhungel_
    [udemy.com](https://www.udemy.com/course/react-node-mern-marketplace/learn/lecture/24585590)
 
@@ -59,8 +63,6 @@ Total: 52h+
      [youtube](https://www.youtube.com/watch?v=YP2f-ErXG_M&list=PLC3y8-rFHvwg7czgqpQIBEAHn8D6l530t)
   1. practical-react _codeevolution_ (3h)
      [youtube](https://www.youtube.com/watch?v=LZhwNGpiTEI&list=PLC3y8-rFHvwhAh1ypBvcZLDO6I7QTY5CM)
-  1. react-formik _codeevolution_ (5h)
-     [youtube](https://www.youtube.com/watch?v=a94FOvaBomQ&list=PLC3y8-rFHvwiPmFbtzEWjESkqBVDbdgGu)
   1. storybook.js _codeevolution_ (2h)
      [youtube](https://www.youtube.com/watch?v=BySFuXgG-ow&list=PLC3y8-rFHvwhC-j3x3t9la8-GQJGViDQk)
   1. react-table _codeevolution_ (2h)
@@ -86,6 +88,8 @@ Total: 52h+
 - ##### REACT
   - ReactJS Tutorial _CodeEvolution_
     [youtube](https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) (finished)
+  - react-formik _codeevolution_ (5h) [youtube](https://www.youtube.com/watch?v=a94FOvaBomQ&list=PLC3y8-rFHvwiPmFbtzEWjESkqBVDbdgGu)
+
 - ##### REDUX
   - redux _codeevolution_ (3h) _till chap 14_
     [youtube](https://www.youtube.com/watch?v=yGyj0mSfVuk&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) (till lesson 14)

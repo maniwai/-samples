@@ -1,0 +1,23 @@
+{
+  "name": "postgres-bootcamp_adnan_waheed",
+  "version": "1.0.0",
+  "private": "true",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node -r dotenv/config _src/main.ts"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "pg": "latest",
+    "slonik": "latest"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/node": "^15.9.0",
+    "@types/pg": "latest",
+    "jest": "latest",
+    "ts-node": "latest",
+    "ts-node-dev": "latest",
+    "typescript": "latest"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "_postgres-bootcamp_adnan_waheed",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "concurrently -k -n build,serve -c #FF9955,#FFFF77 \"npm run _build:dev\" \"npm run _serve:dev\"",
+    "_build:dev": "tsc -w",
+    "_serve:dev": "nodemon -w dist -q dist/index.js",
+    "pre-commit": "node_modules/.bin/eslint --fix"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "latest",
+    "pg": "latest"
+  },
+  "devDependencies": {
+    "nodemon": "latest",
+    "typescript": "latest"
+  }
+}
